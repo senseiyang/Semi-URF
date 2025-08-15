@@ -1,0 +1,1 @@
+CLASSES = {'acdc': ['Right Ventricle', 'Myocardium', 'Left Ventricle'], 'promise': ['Prostate'], 'bratsslice': [' Whole_Tumor'], 'monuseg': ['Nuclear'], 'isic': ['Lesion'], 'nbi': ['Polyp']}
